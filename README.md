@@ -14,7 +14,7 @@
 
 * [후반 ] 인터뷰 준비 Notice
 
-    [ 17.08.23 1회차 InnoDB vs MyISAM ]
+    [ 17.08.23 1회차 InnoDB vs MyISAM]
         
         - InnoDB B-Tree 인덱스 : http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/
         - InnoDB , MyISAM 비교 : http://ojava.tistory.com/25
