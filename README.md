@@ -11,7 +11,9 @@
         -서로 다른 N개의 숫자에 대해서, k개의 숫자를 뽑아서 출력한다.
         Example) N=3, k =2 =>  {1, 2, 3}에서 2개의 숫자를 출력한다. => {1, 2}, {1, 3}, {2, 1}, {2, 3}, {3, 1}, {3, 2}
         
-
+    [ 17.09.06 3회차 알고리즘 ]
+        - https://www.hackerrank.com/challenges/sherlock-and-array/problem
+        
 * [후반 ] 인터뷰 준비 Notice
 
     [ 17.08.23 1회차 InnoDB vs MyISAM ]
