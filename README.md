@@ -28,6 +28,7 @@
     [ 17.09.06 3회차 NoSql]
     
         - Couchbase : 
+        - NoSql : http://daekong.tistory.com/entry/NoSql
     
     [ 17.09.13 4회차 - 디자인패턴 : Composite 패턴 ]
     
